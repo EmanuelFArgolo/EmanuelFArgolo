@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Emanuel Argolo 👋
 ![EmanuelFArgolo GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelFArgolo&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelFArgolo&show_icons=true&theme=dracula)](https://github.com/EmanuelFArgolo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelFArgolo&show_icons=true&theme=dracula)](https://github.com/EmanuelFArgolo)
 
 ## Tecnologias que eu uso no dia a dia
 <div style= "display: inline_block">
